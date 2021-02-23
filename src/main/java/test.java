@@ -6,6 +6,9 @@ public class test {
         System.out.println("快男鑫哥");
         System.out.println("晗哥牛逼！！！！！！！！");
         System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
 
     }
 }
