@@ -15,6 +15,15 @@ public class test {
         System.out.println("鑫哥牛逼！！！！！！！！");
         System.out.println("鑫哥牛逼！！！！！！！！");
         System.out.println("鑫哥牛逼！！！！！！！！");
+        System.out.println("鑫哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
+        System.out.println("晗哥牛逼！！！！！！！！");
         System.out.println("晗哥牛逼！！！！！！！！");
         System.out.println("晗哥牛逼！！！！！！！！");
         System.out.println("晗哥牛逼！！！！！！！！");
